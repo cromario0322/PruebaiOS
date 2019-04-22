@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     
         let romario8: String = "Romario Coronel Alvarez ---> man"
     
+            let romario10: String = "Romario Coronel Alvarez ---> man"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
